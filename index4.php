@@ -20,4 +20,31 @@ while ($j < 5) {
 	$j++;
 }
 
+echo '<br>';
+
+
+
+
+// switch
+// if文　の方がいい　みやすい
+$data = 4;
+switch ($data) {
+	case 1:
+	  echo '１です。';
+	  break;
+	case 2:
+	  echo '２です。';
+	  break;
+	case 3:
+	  echo '３です。';
+	  break;
+	default:
+	  echo '１〜３ではありません。';
+	  break;
+}
+
+
+
+
+
 ?>
