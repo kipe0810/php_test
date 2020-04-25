@@ -38,6 +38,8 @@ echo $commentNumber;
 
 
 echo '<br>';
+
+
 // 引数２つ
 // 戻り値あり
 
